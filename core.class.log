@@ -1,0 +1,850 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB061A5F3D2EBA8A9D99F',
+    participant: undefined
+  },
+  messageTimestamp: 1689122646,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB030C7FB7FA668A8D6E8',
+    participant: undefined
+  },
+  messageTimestamp: 1689122651,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'facturas',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'facturas',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CADB1247EE41AB52AC',
+    participant: undefined
+  },
+  messageTimestamp: 1689122661,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'aclaracion factura',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'aclaracion factura',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0914D89351E7D51F0A9',
+    participant: undefined
+  },
+  messageTimestamp: 1689122673,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'solicitar informacion',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'solicitar informacion',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E48A98AC2637134B45',
+    participant: undefined
+  },
+  messageTimestamp: 1689122683,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'procedimientos faciales',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'procedimientos faciales',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09AFE1E7B3E33078FBD',
+    participant: undefined
+  },
+  messageTimestamp: 1689122688,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'rellenos',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'rellenos',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB095DC10D49D6B07222D',
+    participant: undefined
+  },
+  messageTimestamp: 1689122692,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'nariz',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'nariz',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EF558E5616EE87785F',
+    participant: undefined
+  },
+  messageTimestamp: 1689122697,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'labiso',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'labiso',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB048DEFC3CF2D90D2CA8',
+    participant: undefined
+  },
+  messageTimestamp: 1689122700,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'labios',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'labios',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB040053046FEFC0EBC38',
+    participant: undefined
+  },
+  messageTimestamp: 1689122704,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'mdvc',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'mdvc',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03616B62C387A17F407',
+    participant: undefined
+  },
+  messageTimestamp: 1689122714,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'armonización facila',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'armonización facila',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09B0B25BC2EDC580478',
+    participant: undefined
+  },
+  messageTimestamp: 1689122724,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'armonización facila',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'armonización facila',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C4866995C0E423D0BB',
+    participant: undefined
+  },
+  messageTimestamp: 1689122733,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'armonizacion facial',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'armonizacion facial',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0645B51152DD3185A94',
+    participant: undefined
+  },
+  messageTimestamp: 1689122736,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'gbg',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gbg',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215548590824@s.whatsapp.net',
+    fromMe: false,
+    id: '02AF4080C7BA07CB0289250802665A76',
+    participant: undefined
+  },
+  messageTimestamp: 1689122879,
+  pushName: 'Andi',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '😮',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5215548590824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215548590824@s.whatsapp.net',
+    fromMe: false,
+    id: 'C87940A4718252FFD096556B1CF2DB81',
+    participant: undefined
+  },
+  messageTimestamp: 1689122914,
+  pushName: 'Andi',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/12102000_661129968865302_6700407890252409202_n.enc?ccb=11-4&oh=01_AdTXHglTZUPNlnx214Nx_ov3LEXNfirdLcLqJ4rYrq99dw&oe=64D56F2A&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/12102000_661129968865302_6700407890252409202_n.enc?ccb=11-4&oh=01_AdTXHglTZUPNlnx214Nx_ov3LEXNfirdLcLqJ4rYrq99dw&oe=64D56F2A',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      contextInfo: [ContextInfo],
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5215548590824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215548590824@s.whatsapp.net',
+    fromMe: false,
+    id: 'BC7D4DD61C7D16BC550C351F80C3DCDB',
+    participant: undefined
+  },
+  messageTimestamp: 1689122916,
+  pushName: 'Andi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'OOOOH',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'OOOOH',
+  from: '5215548590824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215548590824@s.whatsapp.net',
+    fromMe: false,
+    id: '2B6933966383491F7670E63424A34EAE',
+    participant: undefined
+  },
+  messageTimestamp: 1689122927,
+  pushName: 'Andi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Desde cuándo andas por aquí prima?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Desde cuándo andas por aquí prima?',
+  from: '5215548590824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215548590824@s.whatsapp.net',
+    fromMe: false,
+    id: '011840FF93C3601BA5C3D51D9CDE7AA3',
+    participant: undefined
+  },
+  messageTimestamp: 1689122933,
+  pushName: 'Andi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'En qué parte estás?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En qué parte estás?',
+  from: '5215548590824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215548590824@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD691E399F3AAD7E8A0252FCCCA23181',
+    participant: undefined
+  },
+  messageTimestamp: 1689122946,
+  pushName: 'Andi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Síiiii claro que shiii 🥰🥰',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Síiiii claro que shiii 🥰🥰',
+  from: '5215548590824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215548590824@s.whatsapp.net',
+    fromMe: false,
+    id: '991DE872F75DF0B6190BFB71F6A883DC',
+    participant: undefined
+  },
+  messageTimestamp: 1689122956,
+  pushName: 'Andi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cuando gustes ❤️❤️',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuando gustes ❤️❤️',
+  from: '5215548590824'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07265ED26BE3035E99C',
+    participant: undefined
+  },
+  messageTimestamp: 1689122978,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'rejuvenecimiento',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'rejuvenecimiento',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB031BC3CD27B3921F6D5',
+    participant: undefined
+  },
+  messageTimestamp: 1689122991,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'manchas',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'manchas',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02F5DF8DA9EFA33245E',
+    participant: undefined
+  },
+  messageTimestamp: 1689122999,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'limpieza de grado medico',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'limpieza de grado medico',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B61CCC9E7082BC07D2',
+    participant: undefined
+  },
+  messageTimestamp: 1689123013,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'limpieza facial de grado medico',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'limpieza facial de grado medico',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB040D34084E24D648AE9',
+    participant: undefined
+  },
+  messageTimestamp: 1689123022,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hydrafacial',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hydrafacial',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB020749F0427CDEA6A09',
+    participant: undefined
+  },
+  messageTimestamp: 1689123027,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'genneo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'genneo',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217712651722@s.whatsapp.net',
+    fromMe: false,
+    id: 'C9FB68281940D54056E7E9A31BFB80F6',
+    participant: undefined
+  },
+  messageTimestamp: 1689123031,
+  pushName: '💫Sele✨',
+  broadcast: false,
+  message: Message {
+    conversation: 'La de Sofía carson',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'La de Sofía carson',
+  from: '5217712651722'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09ADF0E685020C72CEB',
+    participant: undefined
+  },
+  messageTimestamp: 1689123031,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'preime',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'preime',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04EB87BB4E64C514BCD',
+    participant: undefined
+  },
+  messageTimestamp: 1689123037,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'préime',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'préime',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB057B0F716FAF0CC774D',
+    participant: undefined
+  },
+  messageTimestamp: 1689123055,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'procedimientos corporales',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'procedimientos corporales',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB004FFE3FCD483C9455A',
+    participant: undefined
+  },
+  messageTimestamp: 1689123061,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'depilacion',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'depilacion',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C256C7A86650904E7C',
+    participant: undefined
+  },
+  messageTimestamp: 1689123077,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'reducción de medidas',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'reducción de medidas',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB058279EB290C391F07D',
+    participant: undefined
+  },
+  messageTimestamp: 1689123093,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'reduccion de medidas',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'reduccion de medidas',
+  from: '5217751549991'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217751549991@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB084EA32412B9F5F44DD',
+    participant: undefined
+  },
+  messageTimestamp: 1689123104,
+  pushName: '😊',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'proc. esteticos corporales',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'proc. esteticos corporales',
+  from: '5217751549991'
+}
